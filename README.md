@@ -102,33 +102,4 @@ Upload a PDF resume and get job matches.
 5. Open a Pull Request
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Google AI for the powerful Gemini model
-- Flask for the lightweight web framework
-- PyPDF2 for PDF text extraction
-
-```
-
-### Additional Recommendations:
-
-1. Create a `requirements.txt` file with the following content:
-```
-
-flask==2.3.3
-flask-cors==4.0.0
-PyPDF2==3.0.1
-python-dotenv==1.0.0
-google-generativeai==0.3.0
-apify-client==1.2.2
-
-```
-
-2. Create a `.env` file:
-```
-GOOGLE_AI_API=your_google_ai_api_key_here
-APIFY_API_KEY=your_apify_api_key_here
-```
