@@ -129,10 +129,6 @@ apify-client==1.2.2
 
 2. Create a `.env` file:
 ```
-
 GOOGLE_AI_API=your_google_ai_api_key_here
 APIFY_API_KEY=your_apify_api_key_here
-
-```
-
 ```
