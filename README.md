@@ -72,17 +72,14 @@ Upload a PDF resume and get job matches.
 **Response:**
 
 ```json
-{
-  "all_jobs": [
-    {
-      "job_title": "Software Engineer",
-      "score": 85,
-      "match_reason": "The candidate has strong experience with Python and web development...",
-      "prepare": "Review system design concepts and practice coding challenges..."
-    }
-  ],
-  "suitable_jobs": [...]
-}
+[
+   {
+    "job_title": "Frontend Software Engineer (React, TypeScript or JavaScript)",
+    "score": 60,
+    "match_reason": "The candidate has strong proficiency in React, JavaScript, and TypeScript, essential for this front-end role. Critically, their robust Python programming skills and hands-on experience in machine learning and AI (TensorFlow, PyTorch, Generative AI, Nillion AI Prize) make them an excellent match for supporting AI labs and developing coding benchmarks, which is the core focus. While the stated 3-10 years of experience is a hurdle, the depth of technical skills and relevance of AI projects are highly compelling, especially for a contract/part-time role that may value specific technical expertise.",
+    "prepare": "Emphasize how their AI/ML knowledge allows them to understand and contribute to coding benchmarks for AI systems. Highlight any personal experience with code quality, testing (e.g., unit tests in projects), and debugging. Be ready to discuss the technical aspects of their AI projects and how they would approach curating issues and solutions for AI-related coding tasks."
+  },
+]
 ```
 
 ## Project Structure
