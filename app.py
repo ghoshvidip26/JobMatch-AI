@@ -70,14 +70,12 @@ Return valid JSON only. Remove any leading text like 'json' or markdown formatti
 
         # Generate response
         response = model.generate_content(prompt)
-        response_text = response_text.strip()
+        response_text = response.text.strip()
+
+        # Remove leading "json" or markdown symbols
         for prefix in ["json", "```json", "```"]:
             if response_text.lower().startswith(prefix):
                 response_text = response_text[len(prefix):].strip()
-
-        # Remove trailing ``` if present
-        if response_text.endswith("```"):
-            response_text = response_text[:-3].strip()
 
         # Parse JSON safely
         try:

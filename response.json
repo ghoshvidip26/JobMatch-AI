@@ -1,0 +1,152 @@
+[
+  {
+    "job_title": "Software Engineer III, Mobile (iOS), Geo",
+    "score": 15,
+    "match_reason": "The candidate is a recent Computer Science graduate with robust Python programming skills and hands-on experience in machine learning and AI. They also list React Native and C++ skills. However, this role specifically requires 2+ years of dedicated native iOS application development experience (Swift/Objective-C), which the candidate lacks. Their mobile experience primarily appears to be cross-platform or web-based, not native iOS.",
+    "prepare": "To strengthen their profile for iOS roles, the candidate should gain explicit experience with Swift/Objective-C and native iOS frameworks (SwiftUI/UIKit). Building and deploying a native iOS application would be highly beneficial. Highlight problem-solving skills and Data Structures and Algorithms knowledge from coursework."
+  },
+  {
+    "job_title": "Senior ServiceNow UI Builder Developer",
+    "score": 5,
+    "match_reason": "This 'Senior' role requires extensive and specialized experience (12+ years) in ServiceNow custom development, UI Builder, Service Portal, and AngularJS. The candidate is a recent Computer Science graduate and has no mentioned experience with ServiceNow or AngularJS, making this a fundamental mismatch in both experience level and core technology stack.",
+    "prepare": "This role is entirely unsuitable due to the extreme experience requirement and specialized platform knowledge. The candidate would need to pursue a different career path or gain extensive, specific experience within the ServiceNow ecosystem."
+  },
+  {
+    "job_title": "Senior Staff Front-end Engineer",
+    "score": 10,
+    "match_reason": "While the candidate possesses a strong and highly relevant set of front-end and full-stack technical skills (ReactJS, NextJS, HTML, CSS, JavaScript, NodeJS, Python, Django, RestAPI, Git) as demonstrated in their projects, this 'Senior Staff' position requires a minimum of 10+ years of professional web development experience. This is a significant experience gap for a recent Computer Science graduate.",
+    "prepare": "This role is far too senior for the candidate's current career stage. For future entry-level or junior positions, emphasize the breadth and depth of skills demonstrated in projects and the competitive success in hackathons. Focus on continuous learning and contributing to open-source projects."
+  },
+  {
+    "job_title": "Front End Developer (React.JS/ Redux)",
+    "score": 25,
+    "match_reason": "The candidate has an excellent technical skill set that aligns well with the required front-end technologies, including React, Redux (implied with React ecosystem), HTML, CSS, JavaScript, and API integration, as showcased in their projects. However, the role specifies 5-8 years of experience, which is a considerable gap for a recent Computer Science graduate. TypeScript is a requirement, and while listed as a skill, explicit project usage could be stronger.",
+    "prepare": "For similar entry-level or junior React developer positions, highlight the depth of React/Next.js experience from projects. Explicitly mention Redux usage if applicable in projects and ensure TypeScript proficiency is well-demonstrated. Emphasize hackathon wins as practical, fast-paced development experience that showcases their abilities."
+  },
+  {
+    "job_title": "Software Engineer II, Android",
+    "score": 15,
+    "match_reason": "The candidate shows potential with React Native (cross-platform mobile) and strong AI/ML skills, which are relevant to preferred qualifications like hybrid mobile architecture and AI-powered development tools. However, they critically lack the minimum 3+ years of dedicated native Android development experience (Kotlin/Java, Android SDK, Jetpack libraries) required for this Software Engineer II role.",
+    "prepare": "To improve suitability for Android roles, the candidate should gain hands-on experience with native Android development using Kotlin/Java and the Android SDK. Building and publishing a native Android app would be a strong asset. Highlight AI experience and general software engineering principles from projects."
+  },
+  {
+    "job_title": "Sr. Front End Engineer, Device Design Team",
+    "score": 20,
+    "match_reason": "The candidate possesses strong front-end development skills with ReactJS, NextJS, HTML, CSS, and JavaScript. Their explicit experience with AI/ML technologies and Generative AI aligns well with the preferred qualifications. However, this 'Sr. Front End Engineer' role requires a minimum of 5+ years of non-internship professional experience, which is a considerable gap for a recent Computer Science graduate.",
+    "prepare": "This role is too senior. For entry-level positions, emphasize React, HTML, CSS, JavaScript expertise and their AI/ML projects. Focus on demonstrating how project work provided experience in design-to-code or prototyping, even if not explicitly labeled as 'wire-frames'."
+  },
+  {
+    "job_title": "Manager, Student Developer Community, AWS Developer Experience",
+    "score": 0,
+    "match_reason": "This role is for a 'Manager' in a 'Developer Community' context and requires significant professional marketing (6+ years) and team management (5+ years) experience. The candidate is a recent Computer Science graduate with a technical background, making this an unsuitable match as the core focus and required skills are managerial and marketing-oriented, not software engineering.",
+    "prepare": "This job is not a fit for a software engineering profile. The candidate should focus on roles that align with their technical development skills and experience."
+  },
+  {
+    "job_title": "Senior Software Engineer, Front End, Core",
+    "score": 20,
+    "match_reason": "The candidate has an excellent technical foundation in front-end frameworks (React, Next.js), JavaScript, full-stack development, API integration, and Data Structures and Algorithms, as demonstrated through multiple projects. However, this 'Senior Software Engineer' role requires a minimum of 5 years of professional programming experience and 3 years in front-end frameworks, which is a substantial gap for a recent Computer Science graduate.",
+    "prepare": "This role is too senior. For future entry-level roles at Google, emphasize problem-solving, data structures, algorithms, and the comprehensive development experience gained through projects. Ensure TypeScript proficiency is clear. Highlight hackathon successes as practical project experience."
+  },
+  {
+    "job_title": "Software Engineer, Mobile (iOS)",
+    "score": 15,
+    "match_reason": "The candidate, a recent CS graduate, demonstrates strong foundational software development skills, C++, and relevant AI/ML experience (TensorFlow, PyTorch) that could be beneficial for media processing. However, they critically lack the minimum 2 years of professional experience specifically in Swift and native iOS application development required for this role focused on an XR camera app for iPhones.",
+    "prepare": "Gain hands-on experience with native iOS development (Swift/SwiftUI/UIKit). Explore projects involving camera APIs, media processing, or augmented reality on mobile to specifically address the job's focus. Emphasize existing TensorFlow experience and data structures/algorithms."
+  },
+  {
+    "job_title": "Entry to Senior Level Mobile App Developer (iOS/Android)",
+    "score": 40,
+    "match_reason": "The candidate is a recent Computer Science graduate with strong web development skills, including React Native for mobile, and experience with RESTful APIs and Git. While the job description asks for explicit native iOS (Swift/Objective-C) and Android (Java/Kotlin) experience, the candidate's general app development from projects and React Native skill could make them a potential 'entry-level' fit, but they would need to demonstrate foundational knowledge in native mobile languages.",
+    "prepare": "Explicitly highlight any experience with React Native projects and how they involved the mobile app development cycle, including API integrations and UI/UX decisions. Detail any work with native modules within React Native or demonstrable knowledge of Java/Kotlin/Swift/Objective-C basics. Be ready to discuss how existing web skills are transferable to mobile development."
+  },
+  {
+    "job_title": "Lead UI Developer (React)",
+    "score": 20,
+    "match_reason": "The candidate possesses an excellent foundation in core web UI technologies including JavaScript, HTML, CSS, and strong experience with React (demonstrated through Next.js projects), which aligns well with the technical requirements. However, this 'Lead UI Developer' role requires a minimum of 6 years of web UI development and 3 years in React, presenting a considerable experience gap for a recent Computer Science graduate.",
+    "prepare": "This role is too senior. For entry-level React developer positions, emphasize the extensive React/Next.js work in projects. Be ready to discuss design patterns, performance optimization, and collaboration from project experiences. Consider leadership roles in student projects or hackathons to show initiative."
+  },
+  {
+    "job_title": "Full stack developer at Mavex.ai",
+    "score": 70,
+    "match_reason": "The candidate is a strong fit due to extensive full-stack development skills (React, Node.js, Python, MongoDB, SQL) and highly relevant projects like 'Trezo' (decentralized lending) and 'SplitMate' (instant crypto payments), which directly align with a fintech SaaS environment. While specific professional years of experience aren't stated, the depth and direct relevance of his project experience make him a compelling candidate for this role, especially given it's a VC-backed startup.",
+    "prepare": "Thoroughly articulate the technical architecture, challenges, and solutions for `Trezo` and `SplitMate`, focusing on their relevance to a fintech SaaS platform (security, scalability, performance, blockchain aspects). Research Mavex.ai and its specific technologies. Highlight rapid self-learning ability and teamwork. Mention any exposure to cloud platforms if available, even through academic projects."
+  },
+  {
+    "job_title": "Senior Software Engineer, (Growth)",
+    "score": 30,
+    "match_reason": "The candidate exhibits strong front-end skills in React, JavaScript, HTML/CSS, Node.js, and Git, all highly relevant to the role. Crucially, their extensive AI/ML background and hackathon wins (including an AI prize) make them an exceptional match for the 'AI-Driven Development Practice' mandate. However, this is a 'Senior' role requiring 5+ years of experience, which is a major gap for a recent Computer Science graduate.",
+    "prepare": "Focus heavily on the 'AI Mandate' section of the job description and articulate how existing AI/ML knowledge and projects can be applied to AI-augmented development, UI optimization, and developer experience. While the role is senior, showcase leadership in projects and the ability to rapidly learn new technologies. If possible, demonstrate any interest or projects related to streaming UI/UX."
+  },
+  {
+    "job_title": "Senior Full Stack Engineer, Marketing",
+    "score": 35,
+    "match_reason": "While the 'Senior Full Stack Engineer' role requires 8+ years of experience, a significant mismatch for a recent graduate, the candidate possesses exceptionally relevant project experience in decentralized finance and crypto payments (`Trezo`, `SplitMate`). They utilize Next.js, React, Node.js, and blockchain technologies which are directly applicable to Ripple's mission as a crypto company. Their full-stack skills are strong, but the seniority level remains a major hurdle.",
+    "prepare": "Thoroughly articulate how `Trezo` and `SplitMate` involved full-stack development, performance considerations, and how they relate to the financial/crypto space. Research headless CMS concepts and be ready to discuss how to integrate with them. Emphasize Next.js (especially App Router/Server Components if any project used them) and Vercel understanding. Highlight soft skills for collaborating with design/marketing. Explicitly list TypeScript as a core skill used in projects."
+  },
+  {
+    "job_title": "React Front End Engineer - Developer Support",
+    "score": 50,
+    "match_reason": "The candidate possesses strong front-end development skills with React, HTML, CSS, and JavaScript, aligning well with the core technical requirements. Their soft skills (communication, rapid self-learning, teamwork) and active GitHub presence are also a good match for a developer support and community-focused role. While the 3+ years of experience is a mismatch for a recent graduate, the role's emphasis on support, community, and rapid learning makes it potentially more accessible than other 'Senior' roles. AR/VR/MR experience is a preferred, not mandatory, qualification.",
+    "prepare": "Emphasize projects demonstrating strong React development, debugging skills, and problem-solving. Highlight 'Rapid Self-Learning' and 'Communication' soft skills. Be prepared to discuss contributions to any open-source projects or how they engage with developer communities. Even without direct AR/VR/MR experience, show enthusiasm for learning and applying these technologies, perhaps by referencing relevant coursework or research interests."
+  },
+  {
+    "job_title": "Frontend Software Engineer (React, TypeScript or JavaScript)",
+    "score": 60,
+    "match_reason": "The candidate has strong proficiency in React, JavaScript, and TypeScript, essential for this front-end role. Critically, their robust Python programming skills and hands-on experience in machine learning and AI (TensorFlow, PyTorch, Generative AI, Nillion AI Prize) make them an excellent match for supporting AI labs and developing coding benchmarks, which is the core focus. While the stated 3-10 years of experience is a hurdle, the depth of technical skills and relevance of AI projects are highly compelling, especially for a contract/part-time role that may value specific technical expertise.",
+    "prepare": "Emphasize how their AI/ML knowledge allows them to understand and contribute to coding benchmarks for AI systems. Highlight any personal experience with code quality, testing (e.g., unit tests in projects), and debugging. Be ready to discuss the technical aspects of their AI projects and how they would approach curating issues and solutions for AI-related coding tasks."
+  },
+  {
+    "job_title": "Principal UI Engineer",
+    "score": 10,
+    "match_reason": "The candidate demonstrates strong proficiency in React.js, JavaScript, HTML5, CSS3, and REST APIs, all core technical requirements. However, this 'Principal UI Engineer' role mandates a minimum of 9+ years of relevant work experience and leadership, an insurmountable gap for a recent Computer Science graduate.",
+    "prepare": "This role is entirely unsuitable due to the extreme experience and seniority requirements. The candidate should focus on entry-level or junior positions."
+  },
+  {
+    "job_title": "UI/User Experience Developer",
+    "score": 80,
+    "match_reason": "This role is an excellent fit, especially as an internship/part-time opportunity for a student. The candidate possesses strong React.js frontend development skills and, crucially, significant hands-on experience in AI/ML. Their 'Brain Tumor Classification' project, which integrates Nillion's privacy-preserving technology, aligns perfectly with Hortus AI's mission of responsible AI and the CEO's background in Machine Ethics. The project experience likely covers the '2 years frontend experience' when interpreted broadly for an internship.",
+    "prepare": "Emphasize the 'Brain Tumor Classification' project and its privacy/security aspects, linking it directly to AI risk assessment and transparency. Clearly articulate React project experience and readiness to learn Scrum, Jira, and Figma. Highlight strong communication skills and passion for AI ethics. Be ready to discuss specific contributions to user journeys and design in their projects."
+  },
+  {
+    "job_title": "UX Engineer - Design Systems",
+    "score": 20,
+    "match_reason": "The candidate has solid fundamental front-end skills in React, HTML, CSS, JavaScript, and TypeScript, and even has AI/ML experience that aligns with a bonus point. However, this role specifically requires 4+ years of dedicated UX engineering or design-system-focused front-end experience, including proficiency with tools like Storybook and a deep understanding of accessibility (WCAG). This specialized experience is a significant gap for a recent graduate. Additionally, the company does not provide visa sponsorships.",
+    "prepare": "This role is too specialized and senior. The candidate would need to gain substantial experience specifically in design systems, Storybook, and accessibility, building dedicated projects showcasing these skills. The lack of visa sponsorship is also a critical barrier."
+  },
+  {
+    "job_title": "Interactive Systems Developer",
+    "score": 30,
+    "match_reason": "The candidate demonstrates strong React/Next.js and React Native skills relevant to interactive applications and '0->1' product creation through projects. The 'Brain Tumor Classification' project shows an aptitude for medical contexts, which is subtly relevant. However, the role's strong emphasis on specific game development (Unity, Unreal), 3D visualization (Three.js), robotics control interfaces, and an end-to-end design portfolio are not explicitly matched in the resume.",
+    "prepare": "Create a design portfolio showcasing UX decisions and interactive elements from existing projects. Gain experience with 3D visualization libraries (e.g., Three.js) and explore interactive UI examples. Research robotics control interfaces and consider a project in this area. Emphasize transferable skills from building complex web/mobile apps."
+  },
+  {
+    "job_title": "Senior Associate, Full Stack Developer",
+    "score": 30,
+    "match_reason": "The candidate has strong full-stack skills (Python, React, SQL) and extensive Machine Learning and Generative AI experience, which is highly relevant to the role's focus on GenAI and LLM. Their project experience shows a capability for building functional solutions. However, this 'Senior Associate' role requires a minimum of 3 years of professional full-stack experience and proficiency in specific technologies like Java, Spring Boot, Kubernetes, and cloud platforms (AWS/Azure) that are not explicitly detailed in the resume. Additionally, KPMG does not sponsor visas.",
+    "prepare": "This role is still a bit senior. For entry-level positions, emphasize the full-stack projects using Python and React. Highlight the GenAI/ML skills and how they were applied in projects. Consider learning Java/Spring Boot basics and getting exposure to AWS/Azure if possible, perhaps through personal projects or online certifications. Address the 'no visa sponsorship' if applicable."
+  },
+  {
+    "job_title": "React Native Developer",
+    "score": 65,
+    "match_reason": "The candidate lists `ReactNative` as a key skill and has an 'app with web duo' project (`Purrfect Pal`), demonstrating direct relevance to mobile app development using `ReactNative`. They also possess strong JavaScript, TypeScript, REST API, and Git skills. While the 2+ years of professional `ReactNative` experience is a stated minimum, the depth of their project experience makes them a strong contender, especially for a contract role that may value demonstrated skills over strict years. Strong soft skills are also a plus.",
+    "prepare": "Detail the `Purrfect Pal` project, emphasizing `ReactNative` usage, API integrations, and UI/UX decisions. Highlight any exposure to native build tools (Xcode, Android Studio) or how they would debug performance issues in `ReactNative`. Be ready to discuss the challenges of mobile app development and how they address them. Explicitly mention deploying apps if applicable."
+  },
+  {
+    "job_title": "Staff Software Engineer, Front End, Google Cloud",
+    "score": 10,
+    "match_reason": "The candidate possesses strong front-end and UI development skills (JavaScript, HTML, CSS) and a solid academic background in Computer Science. However, this 'Staff Software Engineer' role at Google Cloud requires a minimum of 8 years of overall software development and 5 years specifically in front-end/UI development, which is an insurmountable experience gap for a recent graduate.",
+    "prepare": "This role is completely out of reach due to the extreme experience requirement. The candidate should focus on entry-level positions and aim to build significant professional experience over several years."
+  },
+  {
+    "job_title": "ReactJS Full stack developer",
+    "score": 60,
+    "match_reason": "The candidate is an excellent technical match, demonstrating strong JavaScript, React, Node.js, and full-stack development skills (MERN stack elements). Crucially, their extensive AI/ML background and a project ('Brain Tumor Classification') that integrates AI/ML into a web UI perfectly align with the job's focus on integrating AI/ML, AI-driven personalization, and visualizations. While specific experience years aren't stated, the breadth of relevant technical skills makes him a very strong candidate.",
+    "prepare": "Highlight the `Brain Tumor Classification` project and how it integrated AI/ML with a web UI. Research D3.js and be ready to discuss data visualization concepts. Mention familiarity with or interest in learning AI-extended plugins (e.g., GitHub Copilot). Prepare to discuss scalability, performance, and responsive design from project experience. Briefly touch upon CI/CD and cloud exposure if any."
+  },
+  {
+    "job_title": "Senior Full Stack Developer, Product Management - Experience Prototyping",
+    "score": 30,
+    "match_reason": "The candidate has strong full-stack skills (React, Python), C++, and extensive Machine Learning experience (TensorFlow, PyTorch, Generative AI), which are highly relevant to web, backend, and the preferred ML qualifications. Their project experience shows a capability for rapid prototyping and building functional solutions. However, this 'Senior' role requires significant professional experience (5+ years) and deep automotive domain knowledge, which the candidate as a recent graduate lacks. Additionally, GM does not provide immigration sponsorship.",
+    "prepare": "This role is too senior and specialized in the automotive domain. For entry-level positions, emphasize the full-stack, C++, and ML skills, highlighting the 'prototyping' mindset from hackathon projects and rapid self-learning ability. Address the 'no visa sponsorship' if applicable."
+  }
+]
